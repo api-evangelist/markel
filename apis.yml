@@ -1,7 +1,11 @@
 aid: markel
-url: https://raw.githubusercontent.com/api-evangelist/markel/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/markel/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.markel.com
+description: >-
+  Markel provides specialty insurance coverage and creates seamless solutions across
+  multiple types of insurance risks for the US market and around the globe.
