@@ -1,7 +1,9 @@
 ---
 title: Jump, Markel launch AI collaboration - Business Insurance
 url: https://www.businessinsurance.com/jump-markel-launch-ai-collaboration/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Markel" press release artificial intelligence'
 position: 4
 source: serpapi-google

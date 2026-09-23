@@ -1,7 +1,9 @@
 ---
 title: Markel International Launches AI Center and Appoints Head ...
 url: https://news.ambest.com/newscontent.aspx?refnum=273200&altsrc=23
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Markel" press release artificial intelligence'
 position: 2
 source: serpapi-google

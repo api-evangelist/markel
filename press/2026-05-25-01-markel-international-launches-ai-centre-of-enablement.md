@@ -1,7 +1,9 @@
 ---
 title: Markel International launches AI Centre of Enablement ...
 url: https://www.prnewswire.com/news-releases/markel-international-launches-ai-centre-of-enablement-with-appointment-of-head-of-ai-302711411.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Markel" press release artificial intelligence'
 position: 1
 source: serpapi-google
